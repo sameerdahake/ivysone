@@ -5,8 +5,8 @@ const messages = [
     "Motti please...",
     "Tu bohot Moti aahe",
     "Mi dusri GF banvin",
-    "Bye",
-    "I will be very very very sad...",
+    "Hamari salya",
+    "Thik aahe! Bye",
     "Ok fine, I will stop asking...",
     "Just kidding, say yes please! ❤️"
 ];
